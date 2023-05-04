@@ -1,0 +1,272 @@
+/*base rules */
+*{
+    margin:0;
+    padding:0;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'montserrat',sans-serif;
+}
+p{
+    font-family: 'Nunito',sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color:white;
+}
+.j{
+        background:rgb(24, 23, 23);
+    }
+    
+.r-nav{
+   position: fixed;
+    background:transparent;
+    padding:20px 0;
+    transition: .5s all;
+    margin-left: 100px;
+    color:white;
+    background-color:#011006;
+   
+}
+.nav-link:hover{
+   background-color:rgb(27, 147, 109);
+
+
+
+}
+.b{
+    color: white;
+}
+.navbar-brand{
+
+    font-size: 30px;
+    color:#fff;
+}
+.navbar-nav li a{
+    color:white;
+    font-size:16px;
+    font-family:'nunito',sans-serif;
+    letter-spacing: 0.05em;
+}
+.navbar-nav li{
+    margin-left:15px;
+}
+
+
+/* header section */
+header{
+
+   
+    
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(jahid.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height:100vh;
+background-attachment: fixed;
+color:white;
+text-align: left;
+}
+  .content-box a{
+    color:white;
+  
+
+}
+ .content-box{
+
+    margin-top: 300px;
+    margin-right:900px;
+ }
+ .content-box h4{
+    font-size:30px;
+    color:rgb(199, 160, 167);
+
+    
+ }
+ .content-box h1{
+    font-size:52px;
+    
+    
+ }
+ .content-box a{
+    color:#fff;
+    text-decoration:none;
+    border:2px solid #fff;
+    border-radius:20px;
+    padding:5px 25px;
+ }
+ .content-box a:hover{
+
+color:black;
+    background:white;
+        transition:0.5s all;
+    }
+
+
+ #m{
+        color:rgb(18, 12, 63);
+        
+     
+
+ }
+ 
+ #am{
+    color:#ca9d9d;
+    margin-bottom:40px;
+
+ }
+ #name{
+    color:rgb(110, 174, 154);
+    margin-bottom:20px;
+
+ }
+ 
+ .lis{
+    font-size:50px;
+    margin-left:40px;
+    
+ }
+ #l{
+    margin-top:60px;
+ }
+ #hei{
+   height:700px;
+   width:550px;
+   margin-left: 30px;
+ }
+ .list-inline-item{
+    font-size:50px;
+    padding:15px;
+    margin-top:25px;
+    color:rgb(69, 116, 135)
+ }
+ .list-inline-item:hover{
+    
+    color:rgb(104, 143, 26)
+ }
+ .im{
+    font-size: medium;
+ }
+ .about{
+    padding-top:70px;
+    padding-bottom:70px;
+
+ }
+ 
+ /*Education Section */
+ .education{
+   padding-top:50px;
+    padding-bottom:70px;
+   background:rgb(198, 192, 192);
+ }
+ .edu{
+ 
+   
+
+ }
+.cuet-pic{
+   height: 350px;
+   width: 500px;
+margin-top:20px;
+margin-bottom:20px;
+}
+#cid{
+   text-align: center;
+   font-style:oblique;
+   margin-top:130px;
+  
+   
+
+}
+#cu{
+   font-size:25px;
+   color:#6e0467;
+   font-weight: bold;
+
+}
+#cu:hover{
+   
+   color:rgb(3, 41, 11);
+   
+}
+#bof{
+   color:black;
+   margin-top:10px;
+}
+
+
+
+/* Skills section */
+.exp{
+   padding-top:70px;
+    padding-bottom:70px;
+    background: #012910;
+    
+ }
+ label{
+    padding:10px;
+    color:yellowgreen
+ }
+ #sk{
+    color:#91568d;
+    font-size: 50px;;
+ }
+ #wl{
+    color:#f5633f;
+    margin-top: 40px;
+
+ }
+ #pl{
+    color:#f5633f;
+    margin-top:70px;
+   
+ }
+ .progress-bar{
+    background-color:#f1dfdf;
+ }
+
+
+
+.c{
+
+   margin-top:80px;
+   margin-bottom:30px;
+   padding-left:70px;
+   padding-right:70px;
+   font-size: 70px;;
+   
+   text-align:center;
+}
+
+
+.contact{
+   background:rgb(37, 2, 53);
+
+}
+.cp{
+   padding-left:80px;
+}
+.f{
+
+   background-color: rgb(20, 21, 14);
+   text-align:center;
+
+}
+.f a{
+
+   color:white;
+   text-decoration:none;
+   margin-bottom:20px;
+   padding:20px;
+  
+}
+.f p{
+
+   color:white;
+   text-decoration:none;
+   margin-top:20px;
+   
+}
+#con{
+   
+margin-bottom:200px;
+
+}
